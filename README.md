@@ -41,14 +41,6 @@ I enjoy turning ideas into working prototypes and continuously improving my skil
 
 ## 🔥 Featured Projects
 
-### 🛡️ CYBERSHERLOCK AI
-
-An AI-powered cybersecurity learning and simulation platform designed to provide practical security scenarios and guided learning.
-
-**Focus:** Cybersecurity • AI • Simulation • Security Education
-
----
-
 ### ⚔️ SECURION
 
 A cybersecurity simulation platform inspired by hands-on security learning environments.
