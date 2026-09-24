@@ -1,64 +1,110 @@
-# 👋 Hi, I'm Gururaj N
+# 👋 Hi, I'm Gururaj Malkhed
 
 ### 🛡️ Cybersecurity Enthusiast | 🤖 AI Explorer | 💻 Developer
 
-I build practical projects around cybersecurity, artificial intelligence,
-web development, and automation.
+I'm a cybersecurity-focused developer interested in building **AI-powered security tools, intelligent systems, and practical software projects**.
 
-I'm interested in turning ideas into useful software while continuously
-learning through hands-on projects.
+I enjoy turning ideas into working prototypes and continuously improving my skills through hands-on projects.
 
 ---
 
-## 🔥 What I'm focused on right now
+## 🚀 About Me
 
-- 🔐 Learning Cybersecurity and Ethical Hacking
-- 🤖 Exploring AI-powered applications
-- 💻 Building web applications
-- 🧪 Creating cybersecurity simulations
-- 🚀 Improving my development and problem-solving skills
+- 🔐 Exploring **Cybersecurity & Ethical Hacking**
+- 🤖 Interested in **Artificial Intelligence & Automation**
+- 💻 Building **Web Applications & Security Simulators**
+- 🧠 Learning through practical projects and experimentation
+- 🎯 Goal: Become a **Cybersecurity Expert**
+- 🌱 Currently improving my skills in **Python, Java, Web Development & Security**
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
 ### Programming
 
-Python • Java • C • JavaScript
+**Python • Java • C • JavaScript**
 
 ### Web Development
 
-HTML • CSS • JavaScript
+**HTML • CSS • JavaScript**
 
 ### Cybersecurity
 
-Linux • Kali Linux • Network Security • Web Security
+**Linux • Kali Linux • Ethical Hacking • Web Security • Network Security**
 
-### Tools
+### Backend & Tools
 
-Git • GitHub • VS Code • FastAPI
+**FastAPI • Git • GitHub • VS Code**
+
+---
+
+## 🔥 Featured Projects
+
+### 🛡️ CYBERSHERLOCK AI
+
+An AI-powered cybersecurity learning and simulation platform designed to provide practical security scenarios and guided learning.
+
+**Focus:** Cybersecurity • AI • Simulation • Security Education
+
+---
+
+### ⚔️ SECURION
+
+A cybersecurity simulation platform inspired by hands-on security learning environments.
+
+**Focus:** Security Labs • Attack Simulation • Learning • Gamification
+
+---
+
+### 🏥 Health Prime
+
+An intelligent healthcare monitoring concept that connects medical monitoring devices with software to display patient readings in real time and provide alerts for critical conditions.
+
+**Focus:** Healthcare • AI • IoT • Real-Time Monitoring
+
+---
+
+### 🌐 Plan Your Trip in Nature
+
+A web platform focused on discovering and booking nature stays and travel experiences.
+
+**Focus:** Web Development • UI/UX • Travel Technology
 
 ---
 
 ## 📚 Currently Learning
 
-- Ethical Hacking
-- Network Security
-- Web Security
-- Cybersecurity Automation
-- Artificial Intelligence
-- Backend Development
+```text
+Cybersecurity
+    ├── Ethical Hacking
+    ├── Network Security
+    ├── Web Security
+    └── Security Automation
+
+Artificial Intelligence
+    ├── AI Automation
+    ├── Prompt Engineering
+    └── AI-powered Applications
+
+Software Development
+    ├── Python
+    ├── Java
+    ├── JavaScript
+    └── Backend Development
+```
 
 ---
 
-## 🎯 Goals
+## 🎯 2026 Goals
 
-- Build advanced cybersecurity projects
-- Develop AI-powered security tools
-- Improve ethical hacking skills
-- Contribute to open-source projects
-- Publish technical research
-- Build a strong cybersecurity portfolio
+- [ ] Build advanced cybersecurity projects
+- [ ] Improve ethical hacking skills
+- [ ] Develop AI-powered security tools
+- [ ] Contribute to open-source projects
+- [ ] Build a strong cybersecurity portfolio
+- [ ] Publish technical research
+- [ ] Keep learning and building 🚀
 
 ---
 
@@ -66,11 +112,44 @@ Git • GitHub • VS Code • FastAPI
 
 > **Learn → Build → Break → Fix → Improve**
 
-I believe the best way to learn technology is by building real projects
-and experimenting with ideas.
+I believe the best way to learn technology is by **building real projects and experimenting with ideas**.
 
 ---
 
-### 🛡️ Building. Learning. Securing. 🚀
+## 📊 GitHub Stats
 
-Thanks for visiting my profile!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurumalkhed&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurumalkhed&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurumalkhed&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:** `@gurumalkhed`
+
+---
+
+<p align="center">
+  <b>🛡️ Building. Learning. Securing. 🚀</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
